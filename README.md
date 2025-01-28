@@ -1,6 +1,11 @@
 # Titulo de mi proyecto
 **Proyecto de git para alumnos de AzulSchool**
 
+Este proyecto es con el fin de que los estudiantes de **Azul School** practiquen con Git y Github  
+>Si estudias hoy no te preocuparas para el tema de mañana.
+
+
+
 [//]:# (Listas enumeradas)
 ### Listas enumeradas
 
